@@ -1,0 +1,20 @@
+.keys button{
+    width: 47px;
+    height: 47px;
+    
+}
+.screen input{
+    margin: 1px;
+    padding: 1px;
+    width: 229px;
+    height: 47px;
+}
+.card{
+    width: 235px;
+}
+main .cal-body{
+    display: block;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
