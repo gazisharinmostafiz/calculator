@@ -11,7 +11,7 @@
     height: 47px;
 }
 .card{
-    width: 248px;
+    width: 248px !important;
 }
 main .cal-body{
     display: block;
