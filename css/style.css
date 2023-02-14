@@ -1,16 +1,17 @@
 .keys button{
-    width: 47px;
-    height: 47px;
+    width: 50px;
+    height: 50px;
+    font-size: small;
     
 }
 .screen input{
     margin: 1px;
     padding: 1px;
-    width: 229px;
+    width: 243px;
     height: 47px;
 }
 .card{
-    width: 235px;
+    width: 248px;
 }
 main .cal-body{
     display: block;
